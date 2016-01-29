@@ -1,0 +1,15 @@
+#container {
+	width: 960px;
+	margin: auto;
+	overflow: auto;
+	outline: 2px solid #000;
+	font-size: 0px;
+}
+
+.grid {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	display: inline-block;
+	outline: 1px solid #000;
+}
