@@ -1,3 +1,8 @@
+#wrapper {
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}
 #container {
 	width: 960px;
 	margin: auto;
@@ -12,4 +17,9 @@
 	border: none;
 	display: inline-block;
 	outline: 1px solid #000;
+}
+
+.button {
+	position: relative;
+	margin: auto;
 }
